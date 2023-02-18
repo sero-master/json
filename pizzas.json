@@ -27,4 +27,34 @@
           ]
         }
       ]
-    }]
+    },
+    {       
+       "id": 2,
+        "name": "Carbonara",
+        "vegetariana": false,
+        "precio": 6,
+        "descripcion": "Deliciosa Pizza con Salsa Carbonara",
+        "ingredientes": "Salsa de Carbonara, Nata, Bacon,Cebolla",
+        "cantidad": 1,
+        "img": "https://postimg.cc/p5XPP65b",
+        "medidayrelleno": [
+          {
+            "mediana": [
+              {
+                "precio": 6
+              }
+            ],
+            "medianabordequeso": [
+              {
+                "precio": 8
+              }
+            ],
+            "medianaborde4quesos": [
+              {
+                "precio": 10
+              }
+            ]
+          }
+        ]
+      }
+    ]
